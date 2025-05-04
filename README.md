@@ -1,2 +1,1 @@
 # ArgoCD-training
-# ArgoCD-training
